@@ -60,3 +60,4 @@
 | 1. | = |<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/4fa8fe6d-d183-420a-9884-1f73bc35739c" />|
 | 2. | += |<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/937c7fc8-7305-47f2-821f-87338d437d66" />|
 | 3. | -= |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/51fe90ad-da76-43b6-960f-9136b5a268e4" />|
+| 4. | *= |<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/085edbe3-a2d7-4249-b51a-e0b812c60a15" />|
