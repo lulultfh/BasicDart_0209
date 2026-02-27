@@ -25,3 +25,4 @@
 | No | Name | Screenshot |
 |--|---|---|
 | 1. | Var |<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/c9b7a6e3-f4eb-4081-a931-c6bd1de93e9d" />|
+| 2. | Dynamic |<img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/d8a71f41-8c94-42fa-8dbe-0780a1358245" />|
