@@ -73,3 +73,4 @@
 | 4.1 | Looping (For) |<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/c49fd086-e55d-4dc2-a34c-43820df03e1f" />|
 | 4.2.1 | Looping (For-In) di dalam List |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/c1787882-130a-4f5e-a2af-0cf786caaf52" />|
 | 4.2.2 | Looping (For-In) di dalam Set |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/a7618b8d-fcde-4b35-b66b-4da1121c1779" />|
+| 4.2.3 | Looping (For-In) di dalam Map |<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/ddb8097f-1f11-48e7-8fcc-ebc2b9d9a3b3" />|
