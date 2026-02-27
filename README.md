@@ -82,3 +82,4 @@
 | No | Name | Screenshot |
 |--|---|---|
 | 1. | Function without Return |<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/2bd37f37-8f2a-4d2d-8172-e95bb69f729f" />|
+| 2. | Function with Return |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/ccddaa03-39b1-44da-98b3-aff330aeefaf" />|
