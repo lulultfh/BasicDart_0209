@@ -70,3 +70,4 @@
 | 1. | If, Else If, Else |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/f3048d33-3a89-40b1-8a80-f555952b45fe" />|
 | 2. | Switch Case |<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/256b5a8c-5f09-4de0-a867-d2481442ab88" />|
 | 3. | Ternary |<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/846e6f03-0474-48ea-bbff-115c74aa4ef5" />|
+| 4.1 | Looping (For) |<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/c49fd086-e55d-4dc2-a34c-43820df03e1f" />|
