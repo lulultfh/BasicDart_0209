@@ -7,3 +7,4 @@
 | No | Name | Screenshot |
 |--|---|---|
 | 1. | Numbers | <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/ca1f7bea-4af5-4714-93fc-17e45ef39045" /> |
+| 2. | Strings | <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/ef8cb4f0-61c9-43b4-9447-3afd42c98ab6" /> |
