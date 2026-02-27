@@ -90,3 +90,4 @@
 | 1. | Non-Nullable |<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/90b0e480-576c-44d3-9d0a-38e95fd17019" />|
 | 2. | Nullable |<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/fa73da22-1221-4ef4-93f9-6164d9736a89" />|
 | 3. | Null check |<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/dc0269bb-7aaf-4e91-932e-a4af24f73d22" />|
+| 4. | Default Value (??) |<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/1f229565-b01f-451f-86b0-cf9fd3933c36" />|
