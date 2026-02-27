@@ -53,3 +53,8 @@
 | 4. | < |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/d2872c04-f9e2-47c0-92b6-a7011370b350" />|
 | 5. | >= |<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/8350c85d-8859-4861-9706-4275b80abbf9" />|
 | 6. | <= |<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/d462a395-9677-42cc-a150-5eb96e84a7e1" />|
+
+### Penugasan
+| No | Name | Screenshot |
+|--|---|---|
+| 1. | = |<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/4fa8fe6d-d183-420a-9884-1f73bc35739c" />|
