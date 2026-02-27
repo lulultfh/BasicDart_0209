@@ -15,3 +15,4 @@
 | 3.4 | List (Mengubah item di list) | <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/c265c94d-8ed6-4e3d-b498-b96c9bd6e474" />|
 | 4. | Set | <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/6861df26-b036-4c7e-869f-6734d530c699" />|
 | 5. | Map | <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/9afc92aa-f47f-4f1b-8008-775bc5e72322" />|
+| 5.1 | Map (Mengakses nilai berdasarkan key) | <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/5beb5555-85e2-44e4-892f-ebe80c4e9177" />|
