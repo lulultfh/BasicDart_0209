@@ -1,4 +1,4 @@
-# Basic Dart
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/9ed393b1-b579-4f62-8841-43da27578fd5" /># Basic Dart
 
 >Nama: Lu'lu' Luthfiah <br>
 >NIM: 20230140209 <br>
@@ -92,3 +92,4 @@
 | 3. | Null check |<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/dc0269bb-7aaf-4e91-932e-a4af24f73d22" />|
 | 4. | Default Value (??) |<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/1f229565-b01f-451f-86b0-cf9fd3933c36" />|
 | 5. | Null Assertion |<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/25e5c3f9-a4c7-4a28-8ebc-6ae6b36869d2" />|
+| 6. | Late Variable |<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/d421cd74-8899-4e91-9341-16004f6230e8" />|
