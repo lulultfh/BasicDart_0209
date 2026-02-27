@@ -52,3 +52,4 @@
 | 3. | > |<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/5b5bac34-c9f6-40a9-8b07-6ed2ae320d0b" />|
 | 4. | < |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/d2872c04-f9e2-47c0-92b6-a7011370b350" />|
 | 5. | >= |<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/8350c85d-8859-4861-9706-4275b80abbf9" />|
+| 6. | <= |<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/d462a395-9677-42cc-a150-5eb96e84a7e1" />|
