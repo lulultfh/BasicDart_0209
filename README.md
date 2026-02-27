@@ -48,3 +48,4 @@
 | No | Name | Screenshot |
 |--|---|---|
 | 1. | == |<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/3ad2675d-aebc-4d1f-80a2-d0a55eafe334" />|
+| 2. | != |<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/55ef0127-2b18-471a-9497-6da14ba447eb" />|
